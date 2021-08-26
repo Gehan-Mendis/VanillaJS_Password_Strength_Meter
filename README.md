@@ -1,0 +1,2 @@
+# VanillaJS_Password_Strength_Meter
+VanillaJS Password Strength Meter
